@@ -1,0 +1,72 @@
+[
+    {
+        "service_id": "01",
+        "title": "Portraits",
+        "img": "https://photographylife.com/wp-content/uploads/2018/07/Monochrome-Portrait-Photograph-960x720.jpg",
+        "price": "50.00",
+        "description": "The broadest type of people photography is portraiture, covering everything from family portraits to fine-art photography and commercial work. Often, the goal of portraiture is to show the character of a subject – to capture the person’s personality and emotion in an image. Portrait photography is also quite an accessible genre overall, not requiring more than a single prime lens and flash to start at a high level (or whatever equipment you already have if you’re just testing the waters). But capturing the essence of a subject, or meeting the goals for your commercial project, can take a lifetime of work."
+    },
+    {
+        "service_id": "02",
+        "title": "Wedding Photography",
+        "img": "https://photographylife.com/wp-content/uploads/2010/09/Nikon-85mm-f1.4G-Image-Sample-31-960x641.jpg",
+        "price": "90.00",
+        "description": "One of the most important events in many peoples lives is a wedding, and that means wedding photographers have a huge responsibility. Not only do wedding photographers need to have good camera and lighting skills, but they also must know how to work with people and capture the right emotions almost effortlessly. This is a difficult type of photography to practice, and you only get one chance to do it right, so I have a lot of respect for good wedding photographers."
+    },
+    {
+        "service_id": "03",
+        "title": "Wildlife",
+        "img": "https://photographylife.com/wp-content/uploads/2018/02/Puffin-Photo-960x640.jpg",
+        "price": "120.00",
+        "description": "Wildlife photography can bring out some of the most intense photographers you’ll meet – people who might spend hours on end waiting for an animal to wander into the perfect spot, or search for creatures that most people would rather try to avoid. But it’s also something you can practice in your own backyard, or a short drive from where you live, since there are animals to be found everywhere. From time to time, you’ll see a photo series of urban wildlife that rivals the best images captured in more remote locations."
+    },
+    {
+        "service_id": "04",
+        "title": "Sports",
+        "img": "https://photographylife.com/wp-content/uploads/2018/07/Two-Hikers-and-Negative-Space-960x640.jpg",
+        "price": "100.00",
+        "description": "Another broad style of photography is sports photography, from international events like the Olympics to adventure-based photography in the most remote areas of the world. Even a parent photographing their child playing sports is part of this genre – a type of photography which requires top-notch autofocus skills, good timing, and often a very fast shutter speed."
+    },
+    {
+        "service_id": "05",
+        "title": "Fashion",
+        "img": "https://photographylife.com/wp-content/uploads/2013/05/How-to-plan-a-photo-shoot-960x640.jpg",
+        "price": "120.00",
+        "description": "A cousin of portraiture, but distinct enough to count as its own genre, is fashion photography. This is a fast-paced world, and the best fashion photographers are intimately knowledgeable not just about lighting and photography but also the clothing styles they’re photographing. Fashion photographs are usually intended for brands and advertisements, but not always, especially in today’s Instagram world."
+    },
+    {
+        "service_id": "06",
+        "title": "Street Photography",
+        "img": "https://photographylife.com/wp-content/uploads/2018/07/Black-and-White-Street-Photo-960x640.jpg",
+        "price": "60.00",
+        "description": "Street photography is about capturing slices of life that happen in common areas in a city, such as parks and sidewalks. Good street photos find meaning and purpose in seemingly ordinary moments or interactions, making viewers think about something they would otherwise pass by. Street photography is often associated with black and white work on 35mm film, but modern-day street photos utilize almost any post-processing styles and camera equipment."
+    },
+    {
+        "service_id": "07",
+        "title": "Event Photography",
+        "img": "https://photographylife.com/wp-content/uploads/2019/01/Van-Halen-World-Tour-2012-960x639.jpeg",
+        "price": "130.00",
+        "description": "Aside from weddings, there are broader classes of events that deserve recognition as a separate genre of photography. For example, corporate events, concerts, parades, and other celebrations all count as event photography. You can expect unpredictability and fast-paced scenes – but also interesting human interactions and sometimes (like with concert photos) very good light. Skilled event photographers are able to convey emotions so that viewers are able to relive the moment."
+    },
+    {
+        "service_id": "08",
+        "title": "Pet Photography",
+        "img": "https://photographylife.com/wp-content/uploads/2019/01/Pet-Photography-Genre-Example-960x636.jpg",
+        "price": "20.00",
+        "description": "Pet photography doesnt fit perfectly under one of this articles broader categories, but I put it at the end of “people photography” because pets are an important part of many people’s families. And similar skills apply to pet photography as portraiture – understanding light, dealing with fast-paced chaos, and conveying the essence of your subject. Aside from selfies, this might just be the most popular genre of photography today!"
+    },
+    {
+        "service_id": "09",
+        "title": "Product Photography",
+        "img": "https://photographylife.com/wp-content/uploads/2021/04/Nikon-Z7-II-960x677.jpg",
+        "price": "30.00",
+        "description": "Another branch of commercial photography is product photography, where you are typically shooting in a studio with careful lighting to accentuate the product in question (though sometimes outdoors or on location). In the same way as commercial portraiture, a product photographer’s goal is to match the vision of the company in question. An outdoor brand will have different needs from a high-end lifestyle company, even if both sell the same underlying type of product, such as clothing or backpacks."
+    },
+    {
+        "service_id": "10",
+        "title": "Food",
+        "img": "https://photographylife.com/wp-content/uploads/2013/06/Food-Photography-5-960x638.jpg",
+        "price": "20.00",
+        "description": "Food photography has experienced a remarkable growth in popularity in recent years thanks to social media. Previously, it was essentially a sub-genre of commercial work – advertisements, cookbooks, menus, and so on – but it’s becoming more a part of documentary photography today.        No matter the final output, though, food photos almost always try to capture their subject in the most appetizing way possible. Sometimes, food photographers will replace the actual foods in an image with artificial substitutes that look tastier, such as glue rather than milk when photographing cereal!"
+    }
+]
